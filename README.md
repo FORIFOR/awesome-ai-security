@@ -366,4 +366,9 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - _System Prompt Leak Leaderboard — community platform for tracking and ranking system prompt leaks across AI products._
 * [Leaked System Prompts](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - _Collection of leaked system prompts from commercial AI tools — useful for understanding real-world prompt engineering and attack surfaces._
 * [SemGuard Arabic Security Dataset](https://huggingface.co/datasets/AG-31625874/SemGuard-Dataset) - _First validated Arabic/Arabizi LLM security dataset — 807 examples across 7 threat categories, validated via 3-judge LLM-as-Judge pipeline (GPT-4o, Grok-4, Llama 3.3 70B), Fleiss' κ=0.839. Includes a 527-example inter-judge disagreement corpus._
-  
+
+<!-- omm-scan-2026-10-11 -->
+
+## 構成図・依存関係
+
+[日本語の構成図と説明を見る](docs/architecture/omm-scan-2026-10-11/README.md)（2026-10-11 初回解析）。解析範囲と未検証事項はリンク先に記載しています。

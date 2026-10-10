@@ -1,0 +1,14 @@
+{
+  "repo": "FORIFOR/awesome-ai-security",
+  "branch": "main",
+  "tree_sha": "1385691a7daee4fe1d1aa7dbd4c7c3284bb6c678",
+  "tree_files": 2,
+  "read_files": [
+    {
+      "path": "README.md",
+      "sha": "c88fe13e859f5562f974265ee3537ff2b2908f33"
+    }
+  ],
+  "not_read_count": 1,
+  "scope": "initial entry-point and direct-import analysis; not exhaustive semantic scan"
+}
